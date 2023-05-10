@@ -1,2 +1,2 @@
 # shortcat
-[click](intent://com.android.settings/#Intent;scheme=android-app;end)
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
