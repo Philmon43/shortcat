@@ -1,2 +1,2 @@
 # shortcat 
-[Contribution](intent://com.android.settings/#Intent;scheme=android-app;end)
+[Contribution](http://192.168.1.36:5000)
